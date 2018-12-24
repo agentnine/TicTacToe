@@ -1,6 +1,6 @@
 # TicTacToe
 
-### Tugas Besar I TBFO - Tic Tac Toe
+### Tugas Besar I TBFO 2018 - Tic Tac Toe
 
 Program dibuat dengan menggunakan file eksternal yang berisi daftar state.
 Pada program ini, komputer tidak mungkin kalah.
